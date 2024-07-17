@@ -1,0 +1,15 @@
+Blushing Beauty|Tulip|330
+Bulbiferum|Lilly|330
+Cattelya|Orchid|118
+Gavota|Tulip|330
+Grandiflora|Magnolia|660
+Lancifolium|Lilly|330
+Liliflora|Magnolia|660
+Phalaenopsis|Orchid|118
+Queen of the Night|Tulip|330
+Regale|Lilly|330
+Rosa chinensis|Rosa|500
+Rosa damascena|Rosa|500
+Rosa rugosa|Rosa|500
+Stelatta|Magnolia|660
+Zyngopetalum|Orchid|118
